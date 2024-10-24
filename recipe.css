@@ -1,0 +1,167 @@
+body {
+    background: url(./background5.jpg) no-repeat center / cover  ;/* added background and 
+    set to not repeat and made it align center and cover the site*/
+}
+
+h1  {
+    text-align: center;
+    background-color: hsla(0, 100%, 15%, 0.543);
+    width: 350px;
+    border-radius: 20px;
+    margin: 3px auto;
+    font-size: 300%;
+    font-style: normal;
+    font-family: "Londrina Sketch", sans-serif;
+    color:hsla(0, 0%, 89%, 0.917);
+
+}
+
+h1:hover {
+    border: 10px solid hsla(0, 100%, 15%, 0.143);
+}
+
+h2.ingre {
+    text-align: center;
+    background: hsla(0, 100%, 16%, 0.743);
+    font-size: 200%;
+    width:240px;
+    margin: 30px auto;
+    border-radius: 10px;
+    font-family: "Londrina Sketch", sans-serif;
+    color:hsla(0, 0%, 89%, 0.917);
+}
+
+h2.ingre:hover {
+    border: 10px solid hsla(0, 100%, 16%, 0.143);
+}
+
+ul.ingre {
+    width:auto;
+    font-family: "Barriecito", sans-serif;
+}
+
+ 
+li.in:hover{
+    border: 3px dotted rgb(130, 54, 54);;
+    width:auto;
+    border-radius: 10px;
+}
+
+.part1 {
+    background-color: hsla(0, 0%, 89%, 0.593);
+    width: 770px;
+    margin: 10px auto;
+    border-radius: 20px;
+    font-family: "Barriecito", sans-serif;
+    color:rgb(130, 54, 54);
+    font-size:140%;
+    border: 1px solid hsla(0, 0%, 89%, 0.510);
+}
+
+
+.content {
+    text-align: center;
+    
+}
+
+.con {
+    background-color: hsla(0, 0%, 89%, 0.593);
+    width:500px;
+    margin:auto;
+    font-size: larger;
+    text-align: left;
+    border-radius:10px;
+    font-family: "Barriecito", sans-serif;
+    color:rgb(130, 54, 54);
+    padding: auto;
+}
+
+h2#p2 {
+    background-color: hsla(0, 100%, 16%, 0.743);
+    text-align: center;
+    font-family: "Londrina Sketch", sans-serif;
+    color:hsla(0, 0%, 89%, 0.917);
+    font-size: 230%;
+    border-radius: 10px;
+
+}
+
+
+
+#h {
+    text-align: center;
+    color: rgb(130, 54, 54);
+    font-weight:900;
+
+}
+
+.con:hover {
+    font-size:70px;
+    width: auto;
+
+}
+
+
+.tip {
+    
+    background-color: hsla(0, 0%, 89%, 0.510);
+    width: 40%;
+    margin: auto;
+    border: 3px solid hsla(0, 0%, 89%, 0.510); 
+    border-radius: 30px;
+    padding-top: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 9);
+    
+}
+
+#tipH {
+    color: hsl(0, 0%, 100%);
+    font-family: "Londrina Sketch", sans-serif;
+    background-color:hsla(0, 100%, 16%, 0.943);
+    width:500px;
+    margin: auto;
+    border-radius: 30px;
+    
+}
+
+#tipH:hover {
+    border: 10px solid hsla(0, 0%, 93%, 0.51);
+}
+
+.tipl {
+    font-size: 30px;
+    text-align: left;
+}
+
+.tipl:hover {
+    border: 3px dashed rgb(130, 54, 54);
+    border-radius: 30px;
+}
+
+#media {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+#img {
+    width: 15%;
+    margin: 10px;
+    border-radius: 15%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 9);
+}
+
+#img:hover {
+    width: 18%;
+    margin: 10px;
+    border-radius: 15%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 9);
+}
+
+#footer {
+
+    color:beige;
+}
+
+
+
